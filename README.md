@@ -6,14 +6,15 @@ Ce module agile s'inscrit dans le cadre de la licence professionnelle :
 **Module Agile** 
 Présentation du module agile.
 
+<img src="/presentation_module_agile.png" alt="Module Agile" width="120"/>
+
 **Scrum** 
 [Le scrum guide de Ken Schwaber et Jeff Sutherland](https://www.scrum.org/scrum-guide)
 [Video humoristique sur le rôle du SM avec Jeff Sutherland](https://www.youtube.com/watch?v=2cGZAjm6DDQ)
-![Alt text](/Scrum_BigPicture.jpg)
 [Scrum et XP depuis les Tranchées / Henrik Kniberg](http://www.infoq.com/resource/news/2007/06/scrum-xp-book/en/resources/ScrumAndXpFromTheTrenches_French.pdf)
 [La Gestion de Produit Agile en deux mots](http://www.youtube.com/watch?v=3qMpB-UH9kA)
 
-<img src="/Scrum_BigPicture.jpg" alt="Big picture" width="42"/>
+<img src="/Scrum_BigPicture.jpg" alt="Big picture" width="120"/>
 
 **Kanban**   
 [Kanban et Scrum - tirer le meilleur des deux Traduit par Claude Aubry, Frédéric Faure, Antoine Vernois et Fabrice Aimetti](http://www.infoq.com/resource/news/2010/01/kanban-scrum-minibook/en/resources/KanbanAndScrum-French.pdf)

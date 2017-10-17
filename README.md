@@ -15,8 +15,11 @@ Management visuel.
 **Scrum** 
 
 [Le scrum guide de Ken Schwaber et Jeff Sutherland](https://www.scrum.org/scrum-guide)
+
 [Video humoristique sur le rôle du SM avec Jeff Sutherland](https://www.youtube.com/watch?v=2cGZAjm6DDQ)
+
 [Scrum et XP depuis les Tranchées / Henrik Kniberg](http://www.infoq.com/resource/news/2007/06/scrum-xp-book/en/resources/ScrumAndXpFromTheTrenches_French.pdf)
+
 [La Gestion de Produit Agile en deux mots](http://www.youtube.com/watch?v=3qMpB-UH9kA)
 
 <img src="/Scrum_BigPicture.jpg" alt="Big picture" width="300"/>
@@ -24,8 +27,10 @@ Management visuel.
 **Kanban** 
 
 [Kanban et Scrum - tirer le meilleur des deux Traduit par Claude Aubry, Frédéric Faure, Antoine Vernois et Fabrice Aimetti](http://www.infoq.com/resource/news/2010/01/kanban-scrum-minibook/en/resources/KanbanAndScrum-French.pdf)
+
 [Le code de la route du Kanban](http://blog.myagilepartner.fr/index.php/2017/10/11/le-code-de-la-route-du-kanban/).
 
 **Pour aller plus loin**
+
 [Les cours d'Isabelle Blasquez](https://github.com/iblasquez).
 

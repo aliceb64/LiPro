@@ -9,6 +9,7 @@ Présentation du module agile.
 <img src="/presentation_module_agile.png" alt="Module Agile" width="300"/>
 
 Management visuel.
+
 <img src="/Visuel.jpg" alt="Plan Apprentissage" height="300"/>
 
 **Scrum** 

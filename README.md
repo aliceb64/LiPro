@@ -16,13 +16,15 @@ Management visuel.
 
 [Le scrum guide de Ken Schwaber et Jeff Sutherland](https://www.scrum.org/scrum-guide)
 
-[Video humoristique sur le rôle du SM avec Jeff Sutherland](https://www.youtube.com/watch?v=2cGZAjm6DDQ)
-
 [Scrum et XP depuis les Tranchées / Henrik Kniberg](http://www.infoq.com/resource/news/2007/06/scrum-xp-book/en/resources/ScrumAndXpFromTheTrenches_French.pdf)
 
 *Video*
 
 [La Gestion de Produit Agile en deux mots](http://www.youtube.com/watch?v=3qMpB-UH9kA)
+
+[Video humoristique sur le rôle du SM avec Jeff Sutherland](https://www.youtube.com/watch?v=2cGZAjm6DDQ)
+
+*Visuel*
 
 <img src="/Scrum_BigPicture.jpg" alt="Big picture" width="300"/>
 

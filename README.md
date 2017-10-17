@@ -8,6 +8,9 @@ Présentation du module agile.
 
 <img src="/presentation_module_agile.png" alt="Module Agile" width="300"/>
 
+Management visuel.
+<img src="/Visuel.jpg" alt="Plan Apprentissage" height="300"/>
+
 **Scrum** 
 [Le scrum guide de Ken Schwaber et Jeff Sutherland](https://www.scrum.org/scrum-guide)
 [Video humoristique sur le rôle du SM avec Jeff Sutherland](https://www.youtube.com/watch?v=2cGZAjm6DDQ)

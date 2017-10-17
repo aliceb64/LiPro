@@ -13,6 +13,7 @@ Management visuel.
 <img src="/Visuel.jpg" alt="Plan Apprentissage" height="300"/>
 
 **Scrum** 
+
 [Le scrum guide de Ken Schwaber et Jeff Sutherland](https://www.scrum.org/scrum-guide)
 [Video humoristique sur le rôle du SM avec Jeff Sutherland](https://www.youtube.com/watch?v=2cGZAjm6DDQ)
 [Scrum et XP depuis les Tranchées / Henrik Kniberg](http://www.infoq.com/resource/news/2007/06/scrum-xp-book/en/resources/ScrumAndXpFromTheTrenches_French.pdf)
@@ -20,7 +21,8 @@ Management visuel.
 
 <img src="/Scrum_BigPicture.jpg" alt="Big picture" width="300"/>
 
-**Kanban**   
+**Kanban** 
+
 [Kanban et Scrum - tirer le meilleur des deux Traduit par Claude Aubry, Frédéric Faure, Antoine Vernois et Fabrice Aimetti](http://www.infoq.com/resource/news/2010/01/kanban-scrum-minibook/en/resources/KanbanAndScrum-French.pdf)
 [Le code de la route du Kanban](http://blog.myagilepartner.fr/index.php/2017/10/11/le-code-de-la-route-du-kanban/).
 

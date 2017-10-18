@@ -40,6 +40,8 @@ Management visuel.
 
 [Mocks are not stubs](http://bruno-orsier.developpez.com/mocks-arent-stubs/)
 
+[Les principes SOLID](http://blog.xebia.fr/2011/07/18/les-principes-solid/)
+
 *Pratique*
 
 [Coding game](https://www.codingame.com/)

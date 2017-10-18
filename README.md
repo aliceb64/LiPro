@@ -35,5 +35,13 @@ Management visuel.
 [Le code de la route du Kanban](http://blog.myagilepartner.fr/index.php/2017/10/11/le-code-de-la-route-du-kanban/).
 
 **eXtremeProgramming**
+
 [Clean code / Antoine Vernois](http://avernois.github.io/prez-clean_code/#/)
+
 [Mocks are not stubs](http://bruno-orsier.developpez.com/mocks-arent-stubs/)
+
+*Pratique*
+
+[Coding game](https://www.codingame.com/)
+
+[Kata catalogue](http://codingdojo.org/KataCatalogue/)

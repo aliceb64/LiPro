@@ -45,3 +45,5 @@ Management visuel.
 [Coding game](https://www.codingame.com/)
 
 [Kata catalogue](http://codingdojo.org/KataCatalogue/)
+
+[Refactoring / Martin Fowler](https://refactoring.com/catalog/)
